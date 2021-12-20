@@ -1,0 +1,10 @@
+D:\Workstation\TaxSerilog\obj\Debug\netcoreapp3.1\TaxSerilog.csproj.AssemblyReference.cache
+D:\Workstation\TaxSerilog\obj\Debug\netcoreapp3.1\TaxSerilog.AssemblyInfoInputs.cache
+D:\Workstation\TaxSerilog\obj\Debug\netcoreapp3.1\TaxSerilog.AssemblyInfo.cs
+D:\Workstation\TaxSerilog\obj\Debug\netcoreapp3.1\TaxSerilog.csproj.CoreCompileInputs.cache
+D:\Workstation\TaxSerilog\bin\Debug\netcoreapp3.1\tax-serilog-sdk.deps.json
+D:\Workstation\TaxSerilog\bin\Debug\netcoreapp3.1\tax-serilog-sdk.dll
+D:\Workstation\TaxSerilog\bin\Debug\netcoreapp3.1\tax-serilog-sdk.pdb
+D:\Workstation\TaxSerilog\obj\Debug\netcoreapp3.1\tax-serilog-sdk.dll
+D:\Workstation\TaxSerilog\obj\Debug\netcoreapp3.1\tax-serilog-sdk.pdb
+D:\Workstation\TaxSerilog\obj\Debug\netcoreapp3.1\TaxSerilog.GeneratedMSBuildEditorConfig.editorconfig

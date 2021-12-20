@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workstation\\TaxSerilog\\TaxSerilog.csproj": {}
+  },
+  "projects": {
+    "D:\\Workstation\\TaxSerilog\\TaxSerilog.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "D:\\Workstation\\TaxSerilog\\TaxSerilog.csproj",
+        "projectName": "tax-serilog-sdk",
+        "projectPath": "D:\\Workstation\\TaxSerilog\\TaxSerilog.csproj",
+        "packagesPath": "C:\\Users\\souza\\.nuget\\packages\\",
+        "outputPath": "D:\\Workstation\\TaxSerilog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Workstation": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.Formatting.Compact": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

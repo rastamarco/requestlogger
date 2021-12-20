@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>tax-serilog-sdk</id>
+    <version>2.1.0</version>
+    <authors>Tax Engine Teams</authors>
+    <description>SDK to use a log to Synnex</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Http" version="2.2.2" exclude="Build,Analyzers" />
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Workstation\TaxSerilog\bin\Release\netcoreapp3.1\tax-serilog-sdk.dll" target="lib\netcoreapp3.1\tax-serilog-sdk.dll" />
+  </files>
+</package>

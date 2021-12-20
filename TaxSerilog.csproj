@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>tax-serilog-sdk</AssemblyName>
+    <Authors>Tax Engine Teams</Authors>
+    <Product>TaxSerilog</Product>
+    <Description>SDK to use  log according to Synnex</Description>
+    <Version>1.0.1</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Serilog" Version="2.10.0" />
+    <PackageReference Include="Serilog.Formatting.Compact" Version="1.1.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="4.0.1" />
+  </ItemGroup>
+
+</Project>
